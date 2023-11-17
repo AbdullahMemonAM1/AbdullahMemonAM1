@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a passionate Programmer
 ----------------------------
-<img align="right" alt="coding" width="400px" src="https://github.com/AbdullahMemonAM1/AbdullahMemonAM1/assets/139921597/c71f204f-40fd-44fb-8256-766103ab1a62">
+<img align="right" alt="coding" width="400px" src="https://github.com/AbdullahMemonAM1/AbdullahMemonAM1/assets/139921597/ad3bb71b-4550-43af-b3c1-a3617d562d11">
+![gif](https://github.com/AbdullahMemonAM1/AbdullahMemonAM1/assets/139921597/f7d5bebe-c8e1-4bcb-8d6a-5036d803e4ad)
 
 I am an undergraduate Computer Science Student at FAST-NUCES. Striving to get into development and learning best engineering practices
 
